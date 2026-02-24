@@ -1,0 +1,7 @@
+name: 'Anyrel Distributor CSV'
+type: module
+description: 'CSV data dispatcher for Anyrel Distributor'
+package: Anyrel
+core_version_requirement: ^10.3 || ^11
+dependencies:
+  - dmf_distributor_core:dmf_distributor_core
